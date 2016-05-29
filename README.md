@@ -1,6 +1,6 @@
 # Cupcake Shop
 
-#### Website demonstrating the use of CSS classes., May 28 2016
+#### Website demonstrating the use of CSS classes, May 28 2016
 
 #### By Adrianne Miller
 
@@ -13,7 +13,7 @@ Basic website built with HTML and CSS.
 * _git clone_
 * _cd cupcake-shop_
 * _open index.html in Google Chrome_
-* _or you can simply view the site online by [clicking here](http://adriannem.github.io/cupcake-shop/)
+* _or you can simply view the site online by [clicking here](http://adriannem.github.io/cupcake-shop/)_
 
 
 ## Support and contact details
